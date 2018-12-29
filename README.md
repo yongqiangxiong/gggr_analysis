@@ -6,7 +6,7 @@ The GGGR has a number of issues, including but not limited to the following ones
 
 2) The GGGI's weights are just related to standard deviation of each indicator instead of the significance, which raises huge cencern.
 
-3) The weights are then fixed with the data/result in year 2006. We see radical changes for both ranks and scores if applying the dynamic weights each year. Many countries' ranks may change up to 100+.
+3) The weights are then fixed with the calcuated data & result in year 2006, but they are changed lot after that. We see radical changes for both ranks and scores if applying the dynamic weights each year. Many countries' ranks may change up to 100+.
 
 4) The weights are grouped into 4 dimensions, but with equal weight for those dimensions, that is inconsistent with its original design, because each dimention has quite different standard deviations which, based on the original design principle, should be distinguished and treated differently
 
