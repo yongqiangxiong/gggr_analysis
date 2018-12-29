@@ -4,7 +4,7 @@ The GGGR has a number of issues, including but not limited to the following ones
 
 1) WE Forum's GGGI approach is lack of solid theoretical analysis about its sensitivity nor stability of the rank and score, unlike the UN's GDI and GII indice which have been extensively reviewed and formally analyzed (not perfect though).
 
-2) The weights are just related to standard deviation instead of the significance of each indicator. 
+2) The GGGI's weights are just related to standard deviation of each indicator instead of the significance, which raises huge cencern.
 
 3) The weights are ridiculously fixed with the data/result in year 2006. We see radical changes for both ranks and scores if applying the dynamic weights each year. Many countries' ranks may change up to 100+.
 
