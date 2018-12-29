@@ -16,4 +16,4 @@ The GGGR has a number of issues, including but not limited to the following ones
 
 7) The result finally demonstrates very suspicious reliablity of the data collected and used in those GGGRs, for example, the ratio of professional and technical female workers in Jordan in 2014 jumps from 0.51 to 1 within just 1 year (from rank#111 to rank#1 in this indicator), similarly in Senegal's secondary education enrolment ratio in 2018 (from 0.771 to 1), Qatar's income inequality ratio in 2017(from 0.483 to 0.913), Burundi's primary education enrolment raio in 2016 (from 0.9 to 1), Swaziland's healthy life expectancy raio in 2015 (from 1 to the indicator's upbound), Sri Lanka's tertiary education enrolment ratio in 2012 (from 0.5 to 1), Korea's wage inequality ration in 2008(from 0.53 to 0.82) ... 
 
-Actually, the GGGR reports are full of such ridiculously weird data points across all years.
+    Actually, the GGGR reports are full of such ridiculously weird data points across all years.
