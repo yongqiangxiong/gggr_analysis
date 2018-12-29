@@ -8,4 +8,4 @@ The GGGR has a number of issues, including but not limited to the following ones
 4) The weights are grouped into 4 dimensions, but with equal weight for those dimensions, that is inconsistent with its original design.
 5) The rank/score of each country changed too much for not only the overall GGI, but also for each dimension and each indicator.
 6) The analytical result demonstrates the poor stability of this index.
-7) The data also shows very suspicious reliablity of the data.
+7) The result also shows very suspicious reliablity of the data collected and used in those GGGRs.
