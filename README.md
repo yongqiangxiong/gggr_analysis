@@ -2,7 +2,7 @@ This project is to analyze the approach/weights/rank/data of Global Gender Gap R
 
 The GGGR has a number of issues, including but not limited to the following ones:
 
-1) WE Forum's GGGI approach is lack of solid theoretical analysis about its sensitivity nor stability of the rank and score, unlike the UN's GDI and GII indice which have been extensively reviewed and analyzed.
+1) WE Forum's GGGI approach is lack of solid theoretical analysis about its sensitivity nor stability of the rank and score, unlike the UN's GDI and GII indice which have been extensively reviewed and analyzed (not perfect though).
 
 2) The weights are just related to standard deviation instead of the significance of each indicator. 
 
