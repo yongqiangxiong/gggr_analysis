@@ -6,5 +6,6 @@ The GGGR has a number of issues, including but not limited to the following ones
 2) The weights are just related to standard deviation instead of the significance of each indicator. 
 3) The weights are ridiculously fixed with the data/result in year 2006. We see radical changes if applying the dynamic weights each year.
 4) The weights are grouped into 4 dimensions, but with equal weight for those dimensions, that is inconsistent with its original design.
-5) The rank of each country changed too much for not only the overall GGI, but also each dimension and each indicator.
-6) The analytical result demonstrates the poor stability of this index, and the poor reliablity of the data.
+5) The rank/score of each country changed too much for not only the overall GGI, but also for each dimension and each indicator.
+6) The analytical result demonstrates the poor stability of this index.
+7) The data also shows very suspicious reliablity of the data.
